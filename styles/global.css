@@ -13,3 +13,27 @@ a {
     color: #fff;
 }
 
+.header-logo {
+    margin-top: 20px;
+    margin-left: 50px;
+    height: 70px;
+}
+
+.header-navigation {
+    display: flex;
+    align-items: center;
+
+}
+
+.header-navigation-list {
+    margin-top: 30px;
+    margin-left: 50px;
+    display: flex;
+    list-style: none;
+    padding-left: 80px;
+
+}
+
+.header-navigation-item {
+    margin: 0 30px;
+}
