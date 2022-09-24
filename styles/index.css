@@ -1,0 +1,31 @@
+.header {
+    height: 700px;
+    max-width: 1500px;
+    margin: auto;
+    background-image: url(../images/spidermanheader.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.header-title {
+    height: 200px;
+    margin-top: 120px;
+    margin-left: 100px;
+}
+
+.who-we-are {
+    height: 700px;
+    max-width: 1500px;
+    margin: auto;
+    background-image: url(../images/thor_header.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.catalog {
+    height: 300px;
+    width: 500px;
+    margin-left: 200px;
+    background-image: url(../images/bonecos.png);
+    background-size: cover;
+}

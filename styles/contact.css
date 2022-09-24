@@ -1,0 +1,14 @@
+.header {
+    height: 700px;
+    max-width: 1500px;
+    margin: auto;
+    background-image: url(../images/contatoheader.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.contact-title {
+    height: 250px;
+    margin-top: 300px;
+    margin-left: 280px;
+}

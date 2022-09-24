@@ -1,0 +1,18 @@
+.header {
+    height: 700px;
+    max-width: 1500px;
+    margin: auto;
+    background-image: url(../images/captainmarvelheader.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.catalog-title {
+    height: 240px;
+    margin-top: 330px;
+    margin-left: 250px;
+}
+
+.product-thumbnail {
+    height: 250px;
+}
